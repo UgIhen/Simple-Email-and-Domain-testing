@@ -1,0 +1,1 @@
+A simple code book developed with Python. A list of emails are looped through a list of domain formats. Emails that have their endings matching with the domain format are considered as Valid Emails. This code book shows how to loop through a list. It also shows how to utilize if/else statements in functions.
